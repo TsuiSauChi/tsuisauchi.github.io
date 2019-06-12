@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-06-12T06:35:34.608Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>James Tsui</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A History of Religious Ideas - Mircea Eliade </title>
+    <link href="http://yoursite.com/2019/06/12/A-History-of-Religious-Ideas-Mircea-Eliade/"/>
+    <id>http://yoursite.com/2019/06/12/A-History-of-Religious-Ideas-Mircea-Eliade/</id>
+    <published>2019-06-12T05:12:59.000Z</published>
+    <updated>2019-06-12T06:35:34.608Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;Paleanthropians&quot;&gt;&lt;a href=&quot;#Paleanthropians&quot; class=&quot;headerlink&quot; title=&quot;Paleanthropians&quot;&gt;&lt;/a&gt;Paleanthropians&lt;/h4&gt;&lt;p&gt;We should not
+        
+      
+    
+    </summary>
+    
+      <category term="Religion" scheme="http://yoursite.com/categories/Religion/"/>
+    
+    
+      <category term="History" scheme="http://yoursite.com/tags/History/"/>
+    
+      <category term="Religion" scheme="http://yoursite.com/tags/Religion/"/>
+    
+      <category term="Ideas" scheme="http://yoursite.com/tags/Ideas/"/>
+    
+  </entry>
+  
+</feed>
