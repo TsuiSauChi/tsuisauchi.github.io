@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-19T13:59:40.424Z</updated>
+  <updated>2019-06-22T13:00:21.080Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>The Quest for Truth</title>
+    <link href="http://yoursite.com/2019/06/22/The-Quest-for-Truth/"/>
+    <id>http://yoursite.com/2019/06/22/The-Quest-for-Truth/</id>
+    <published>2019-06-22T12:24:36.000Z</published>
+    <updated>2019-06-22T13:00:21.080Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;The truth could be replace as rational thought, common sense (although I would argue not very common sense), some empirical data,
+        
+      
+    
+    </summary>
+    
+      <category term="Thoughts" scheme="http://yoursite.com/categories/Thoughts/"/>
+    
+    
+      <category term="Thoughts" scheme="http://yoursite.com/tags/Thoughts/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Prejudice of Order &amp; Nihilism</title>
     <link href="http://yoursite.com/2019/06/19/Prejudice-of-Order-Nihilism/"/>
     <id>http://yoursite.com/2019/06/19/Prejudice-of-Order-Nihilism/</id>
     <published>2019-06-19T13:56:14.000Z</published>
-    <updated>2019-06-19T13:59:40.424Z</updated>
+    <updated>2019-06-22T12:59:08.178Z</updated>
     
     <summary type="html">
     
@@ -49,7 +75,7 @@
     <link href="http://yoursite.com/2019/06/13/Thoughts-on-Rationally/"/>
     <id>http://yoursite.com/2019/06/13/Thoughts-on-Rationally/</id>
     <published>2019-06-13T08:12:14.000Z</published>
-    <updated>2019-06-13T10:01:57.153Z</updated>
+    <updated>2019-06-22T12:59:57.669Z</updated>
     
     <summary type="html">
     
@@ -68,6 +94,8 @@
       <category term="Thoughts" scheme="http://yoursite.com/categories/Philosophy/Thoughts/"/>
     
     
+      <category term="Thoughts" scheme="http://yoursite.com/tags/Thoughts/"/>
+    
       <category term="Philosophy" scheme="http://yoursite.com/tags/Philosophy/"/>
     
       <category term="Game-Theory" scheme="http://yoursite.com/tags/Game-Theory/"/>
@@ -77,11 +105,11 @@
   </entry>
   
   <entry>
-    <title>A History of Religious Ideas - Mircea Eliade </title>
+    <title>A History of Religious Ideas from Antiquity</title>
     <link href="http://yoursite.com/2019/06/12/A-History-of-Religious-Ideas-Mircea-Eliade/"/>
     <id>http://yoursite.com/2019/06/12/A-History-of-Religious-Ideas-Mircea-Eliade/</id>
     <published>2019-06-12T05:12:59.000Z</published>
-    <updated>2019-06-19T13:47:46.290Z</updated>
+    <updated>2019-06-22T12:59:30.717Z</updated>
     
     <summary type="html">
     
