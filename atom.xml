@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-23T13:27:15.637Z</updated>
+  <updated>2019-06-25T11:39:46.069Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Inequality&#39;s Fallacy </title>
+    <link href="http://yoursite.com/2019/06/25/Inequality-s-Fallacy/"/>
+    <id>http://yoursite.com/2019/06/25/Inequality-s-Fallacy/</id>
+    <published>2019-06-25T10:59:54.000Z</published>
+    <updated>2019-06-25T11:39:46.069Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Looking at inequality, we see that it is an issue in every economy. It’s a problem that we have to look that, but it’s much more
+        
+      
+    
+    </summary>
+    
+      <category term="Economy" scheme="http://yoursite.com/categories/Economy/"/>
+    
+      <category term="Thoughts" scheme="http://yoursite.com/categories/Economy/Thoughts/"/>
+    
+    
+      <category term="Economy" scheme="http://yoursite.com/tags/Economy/"/>
+    
+      <category term="Inequality" scheme="http://yoursite.com/tags/Inequality/"/>
+    
+      <category term="Thoughts" scheme="http://yoursite.com/tags/Thoughts/"/>
+    
+  </entry>
   
   <entry>
     <title>The Quest for Truth</title>
@@ -94,9 +126,9 @@
       <category term="Thoughts" scheme="http://yoursite.com/categories/Philosophy/Thoughts/"/>
     
     
-      <category term="Philosophy" scheme="http://yoursite.com/tags/Philosophy/"/>
-    
       <category term="Thoughts" scheme="http://yoursite.com/tags/Thoughts/"/>
+    
+      <category term="Philosophy" scheme="http://yoursite.com/tags/Philosophy/"/>
     
       <category term="Game-Theory" scheme="http://yoursite.com/tags/Game-Theory/"/>
     
