@@ -163,22 +163,22 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<p>Hello. My name is James Tsui from Singapore. Over here, we have conscription, so I’m serving my 2 years of National Service. Before that, I was doing my diploma in Business Informatics at Nanyang Polytechnic. I can programme, especially javascript stuff — been participating in hackathon to further my skills and expose myself into the startup ecosystem. Right now I’m contemplating about life, a shared endeavour of people roughly the same age as me. So that was this website for. To contemplate. Here’s a summary I wrote a few months ago in case I were to create a platform to share my thought </p><p>I’m using this platform to formulate my throughs. I realised that understanding a topic implicitly and expressing it explicitly are two different nature. The problem for me when trying to explain something is 1. there were gaps in my knowledge 2. the other individual has a pre-supposition that is different from mine.</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>Hello. My name is James Tsui from Singapore. Over here, we have conscription, so I’m serving my 2 years of National Service. Before that, I was doing my diploma in Business Informatics at Nanyang Polytechnic. I can programme, especially javascript stuff — been participating in hackathon to further my skills and expose myself into the startup ecosystem. Right now I’m contemplating about life, a shared endeavour of people roughly the same age as me. So that was this website for. To contemplate. Here’s a summary I wrote a few months ago in case I were to create a platform to share my thought </p><p>I’m using this platform to formulate my throughs. I realised that understanding a topic implicitly and expressing it explicitly are two different nature. The problem for me when trying to explain something is 1. there were gaps in my knowledge 2. the other individual has a pre-supposition that is different from mine.</p>]]></content>
       
     </entry>
     
