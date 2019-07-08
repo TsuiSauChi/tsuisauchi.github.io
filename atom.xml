@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-08T13:27:12.189Z</updated>
+  <updated>2019-07-08T13:30:22.353Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/07/08/Critique-of-Postmodernism-through-a-Postmodernist-lens/"/>
     <id>http://yoursite.com/2019/07/08/Critique-of-Postmodernism-through-a-Postmodernist-lens/</id>
     <published>2019-07-08T11:14:00.000Z</published>
-    <updated>2019-07-08T13:27:12.189Z</updated>
+    <updated>2019-07-08T13:30:22.353Z</updated>
     
     <summary type="html">
     
@@ -34,9 +34,9 @@
     
       <category term="History" scheme="http://yoursite.com/tags/History/"/>
     
-      <category term="Postmodernism" scheme="http://yoursite.com/tags/Postmodernism/"/>
-    
       <category term="Ideas" scheme="http://yoursite.com/tags/Ideas/"/>
+    
+      <category term="Postmodernism" scheme="http://yoursite.com/tags/Postmodernism/"/>
     
   </entry>
   
@@ -166,9 +166,9 @@
     
       <category term="History" scheme="http://yoursite.com/tags/History/"/>
     
-      <category term="Ideas" scheme="http://yoursite.com/tags/Ideas/"/>
-    
       <category term="Religion" scheme="http://yoursite.com/tags/Religion/"/>
+    
+      <category term="Ideas" scheme="http://yoursite.com/tags/Ideas/"/>
     
   </entry>
   
