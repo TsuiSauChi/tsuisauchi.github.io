@@ -34,9 +34,9 @@
     
       <category term="History" scheme="http://yoursite.com/tags/History/"/>
     
-      <category term="Ideas" scheme="http://yoursite.com/tags/Ideas/"/>
-    
       <category term="Postmodernism" scheme="http://yoursite.com/tags/Postmodernism/"/>
+    
+      <category term="Ideas" scheme="http://yoursite.com/tags/Ideas/"/>
     
   </entry>
   
@@ -166,9 +166,9 @@
     
       <category term="History" scheme="http://yoursite.com/tags/History/"/>
     
-      <category term="Religion" scheme="http://yoursite.com/tags/Religion/"/>
-    
       <category term="Ideas" scheme="http://yoursite.com/tags/Ideas/"/>
+    
+      <category term="Religion" scheme="http://yoursite.com/tags/Religion/"/>
     
   </entry>
   
