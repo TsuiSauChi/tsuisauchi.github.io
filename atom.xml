@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-09T10:08:37.906Z</updated>
+  <updated>2019-08-29T13:31:03.971Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Beyond Liberty </title>
+    <link href="http://yoursite.com/2019/08/29/Liberty/"/>
+    <id>http://yoursite.com/2019/08/29/Liberty/</id>
+    <published>2019-08-29T12:14:05.000Z</published>
+    <updated>2019-08-29T13:31:03.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;What does it mean to be free? First and foremost, it is a word, obviously, so it must come from somewhere. According to John Locke
+        
+      
+    
+    </summary>
+    
+      <category term="Rhetoric" scheme="http://yoursite.com/categories/Rhetoric/"/>
+    
+      <category term="Philosophy" scheme="http://yoursite.com/categories/Rhetoric/Philosophy/"/>
+    
+      <category term="Thoughts" scheme="http://yoursite.com/categories/Rhetoric/Philosophy/Thoughts/"/>
+    
+    
+      <category term="Rhetoric" scheme="http://yoursite.com/tags/Rhetoric/"/>
+    
+  </entry>
   
   <entry>
     <title>Hegel&#39;s Introduction to the Phenomenology of Spirit</title>
