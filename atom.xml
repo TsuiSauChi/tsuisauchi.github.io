@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-29T13:31:03.971Z</updated>
+  <updated>2019-08-30T15:39:17.411Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Confucianism</title>
+    <link href="http://yoursite.com/2019/08/29/Confucianism/"/>
+    <id>http://yoursite.com/2019/08/29/Confucianism/</id>
+    <published>2019-08-29T13:56:53.000Z</published>
+    <updated>2019-08-30T15:39:17.411Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Confucianism is a philosophy practised in the East, written obscurely by Confucious himself and his student as a guide to the Way of the
+        
+      
+    
+    </summary>
+    
+      <category term="Confucianism" scheme="http://yoursite.com/categories/Confucianism/"/>
+    
+      <category term="Philosophy" scheme="http://yoursite.com/categories/Confucianism/Philosophy/"/>
+    
+    
+      <category term="Confucianism" scheme="http://yoursite.com/tags/Confucianism/"/>
+    
+      <category term="Philosophy" scheme="http://yoursite.com/tags/Philosophy/"/>
+    
+  </entry>
   
   <entry>
     <title>Beyond Liberty </title>
@@ -63,9 +93,9 @@
       <category term="Hegel" scheme="http://yoursite.com/categories/Hegel/"/>
     
     
-      <category term="Hegel" scheme="http://yoursite.com/tags/Hegel/"/>
-    
       <category term="Philosophy" scheme="http://yoursite.com/tags/Philosophy/"/>
+    
+      <category term="Hegel" scheme="http://yoursite.com/tags/Hegel/"/>
     
   </entry>
   
