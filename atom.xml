@@ -88,9 +88,9 @@
     
       <category term="Philosophy" scheme="http://yoursite.com/tags/Philosophy/"/>
     
-      <category term="Rhetoric" scheme="http://yoursite.com/tags/Rhetoric/"/>
-    
       <category term="Thoughts" scheme="http://yoursite.com/tags/Thoughts/"/>
+    
+      <category term="Rhetoric" scheme="http://yoursite.com/tags/Rhetoric/"/>
     
   </entry>
   
@@ -157,11 +157,11 @@
       <category term="Economy" scheme="http://yoursite.com/categories/Economy/"/>
     
     
-      <category term="Thoughts" scheme="http://yoursite.com/tags/Thoughts/"/>
-    
       <category term="Economy" scheme="http://yoursite.com/tags/Economy/"/>
     
       <category term="Inequality" scheme="http://yoursite.com/tags/Inequality/"/>
+    
+      <category term="Thoughts" scheme="http://yoursite.com/tags/Thoughts/"/>
     
   </entry>
   
